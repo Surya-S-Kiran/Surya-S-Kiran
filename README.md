@@ -3,6 +3,6 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=F0F0F0&width=380&height=45&lines=A+passionate+Android+Developer;Android+|+JAVA+|+KOTLIN;Database:+MYSQL+,+MongoDB&center=true"></a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=F0F0F0&width=380&height=45&lines=A+passionate+Android+Developer;Android+|+JAVA+|+KOTLIN;Database:+MYSQL+,+MongoDB&center=true"></a>
+  
 </p>
 </h1>
